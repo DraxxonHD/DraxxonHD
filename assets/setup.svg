@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 256" width="520" height="256" role="img" aria-label="What I work with: editor JetBrains, more plugins than sense; terminal Windows Terminal, sometimes WSL; os Windows to play, Linux to work; keyboard mechanical, loud, no regrets; notes German, my brain insists.">
+  <title>setup</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 17px; }
+    .sm { font-size: 13px; }
+    .key { fill: #E0434E; }
+    .val { fill: #E8E6E3; }
+    .note { fill: #8E8E96; font-size: 12.5px; }
+  </style>
+  <rect fill="#0B0B0D" x="0" y="0" width="520" height="256" rx="12"/>
+  <rect fill="none" stroke="#3A0D12" x="8.5" y="8.5" width="503" height="239" rx="10"/>
+  <text class="mono" fill="#4FE07A" x="28" y="42">$</text>
+  <text class="mono" fill="#E8E6E3" x="46" y="42">cat ~/.config/what-i-use</text>
+  <line x1="28" y1="58" x2="492" y2="58" stroke="#3A0D12"/>
+  <text class="mono" x="28" y="88"><tspan class="key">editor</tspan><tspan fill="#5A1620"> ..... </tspan><tspan class="val">JetBrains, more plugins than sense</tspan></text>
+  <text class="mono" x="28" y="118"><tspan class="key">terminal</tspan><tspan fill="#5A1620"> ... </tspan><tspan class="val">Windows Terminal, sometimes WSL</tspan></text>
+  <text class="mono" x="28" y="148"><tspan class="key">os</tspan><tspan fill="#5A1620"> ......... </tspan><tspan class="val">Windows to play, Linux to work</tspan></text>
+  <text class="mono" x="28" y="178"><tspan class="key">keyboard</tspan><tspan fill="#5A1620"> ... </tspan><tspan class="val">mechanical, loud, no regrets</tspan></text>
+  <text class="mono" x="28" y="208"><tspan class="key">notes</tspan><tspan fill="#5A1620"> ...... </tspan><tspan class="val">German, my brain insists</tspan></text>
+  <text class="mono note" x="28" y="240">nothing exotic, everything replaceable</text>
+</svg>

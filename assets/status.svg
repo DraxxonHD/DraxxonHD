@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 338" width="520" height="338" role="img" aria-label="A joke git status: everything modified, the sleep schedule deleted, ambitions untracked.">
+  <title>git status</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 17px; }
+    .sm { font-size: 13px; }
+    .key { fill: #E0434E; }
+    .val { fill: #E8E6E3; }
+    .note { fill: #8E8E96; font-size: 12.5px; }
+  </style>
+  <rect fill="#0B0B0D" x="0" y="0" width="520" height="338" rx="12"/>
+  <rect fill="none" stroke="#3A0D12" x="8.5" y="8.5" width="503" height="321" rx="10"/>
+  <text class="mono" fill="#4FE07A" x="28" y="42">$</text>
+  <text class="mono" fill="#E8E6E3" x="46" y="42">git status</text>
+  <line x1="28" y1="58" x2="492" y2="58" stroke="#3A0D12"/>
+  <text class="mono" x="28" y="92" fill="#E8E6E3">On branch main</text>
+  <text class="mono" x="28" y="118" fill="#E8E6E3">Your branch is ahead by 3 commits</text>
+  <text class="mono" x="28" y="170" fill="#E8E6E3">Changes not staged for commit:</text>
+  <text class="mono" x="28" y="196" fill="#E0434E">  modified:   everything</text>
+  <text class="mono" x="28" y="222" fill="#E0434E">  deleted:    the sleep schedule</text>
+  <text class="mono" x="28" y="274" fill="#8E8E96">no changes added to commit, but</text>
+  <text class="mono" x="28" y="300" fill="#8E8E96">untracked ambitions are present</text>
+  <text class="mono note" x="28" y="322">the only repo here without a clean working tree</text>
+</svg>

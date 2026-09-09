@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 336" width="600" height="336" role="img" aria-label="Bar chart of languages by bytes across my public repositories: Java 20 percent, C# 20 percent, Python 17 percent, C 8 percent, PHP 7 percent, ShaderLab 6 percent, HTML 4 percent, C++ 3 percent.">
+  <title>languages by bytes across my public repos</title>
+  <style>
+    .bg { fill: #0B0B0D; }
+    .edge { fill: none; stroke: #3A0D12; stroke-width: 1; }
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 17px; }
+    .lang { fill: #E8E6E3; }
+    .pct { fill: #8E8E96; }
+    .prompt { fill: #4FE07A; }
+    .cmd { fill: #E8E6E3; }
+    .note { fill: #8E8E96; font-size: 12.5px; }
+  </style>
+  <rect class="bg" x="0" y="0" width="600" height="336" rx="12"/>
+  <rect class="edge" x="8.5" y="8.5" width="583" height="319" rx="10"/>
+  <text class="mono prompt" x="32" y="44">$</text>
+  <text class="mono cmd" x="52" y="44">cloc ~/repos --by-language</text>
+  <line x1="32" y1="60" x2="568" y2="60" stroke="#3A0D12" stroke-width="1"/>
+    <text class="mono lang" x="32" y="91">java</text>
+    <rect x="140" y="78" width="340" height="17" fill="#C1121F"/>
+    <text class="mono pct" x="568" y="91" text-anchor="end">20.4%</text>
+    <text class="mono lang" x="32" y="119">c#</text>
+    <rect x="140" y="106" width="332" height="17" fill="#9A2028"/>
+    <text class="mono pct" x="568" y="119" text-anchor="end">19.9%</text>
+    <text class="mono lang" x="32" y="147">python</text>
+    <rect x="140" y="134" width="277" height="17" fill="#7C2A30"/>
+    <text class="mono pct" x="568" y="147" text-anchor="end">16.6%</text>
+    <text class="mono lang" x="32" y="175">c</text>
+    <rect x="140" y="162" width="133" height="17" fill="#653036"/>
+    <text class="mono pct" x="568" y="175" text-anchor="end">8.0%</text>
+    <text class="mono lang" x="32" y="203">php</text>
+    <rect x="140" y="190" width="125" height="17" fill="#55343A"/>
+    <text class="mono pct" x="568" y="203" text-anchor="end">7.5%</text>
+    <text class="mono lang" x="32" y="231">shaderlab</text>
+    <rect x="140" y="218" width="99" height="17" fill="#4A363C"/>
+    <text class="mono pct" x="568" y="231" text-anchor="end">5.9%</text>
+    <text class="mono lang" x="32" y="259">html</text>
+    <rect x="140" y="246" width="72" height="17" fill="#42383E"/>
+    <text class="mono pct" x="568" y="259" text-anchor="end">4.3%</text>
+    <text class="mono lang" x="32" y="287">c++</text>
+    <rect x="140" y="274" width="58" height="17" fill="#3C393F"/>
+    <text class="mono pct" x="568" y="287" text-anchor="end">3.5%</text>
+  <text class="mono note" x="32" y="322">bytes across 22 repos. yes, c++ is last. university picked this list, not me.</text>
+</svg>

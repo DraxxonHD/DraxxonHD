@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 306" width="520" height="306" role="img" aria-label="Two ratio bars: 22 of 22 repos carry a licence, 18 of 22 have a description.">
+  <title>housekeeping</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 17px; }
+    .sm { font-size: 13px; }
+    .key { fill: #E0434E; }
+    .val { fill: #E8E6E3; }
+    .note { fill: #8E8E96; font-size: 12.5px; }
+  </style>
+  <rect fill="#0B0B0D" x="0" y="0" width="520" height="306" rx="12"/>
+  <rect fill="none" stroke="#3A0D12" x="8.5" y="8.5" width="503" height="289" rx="10"/>
+  <text class="mono" fill="#4FE07A" x="28" y="42">$</text>
+  <text class="mono" fill="#E8E6E3" x="46" y="42">gh repo list --json license</text>
+  <line x1="28" y1="58" x2="492" y2="58" stroke="#3A0D12"/>
+  <text class="mono" x="28" y="110" fill="#E0434E">licence</text>
+  <rect x="150" y="96" width="260" height="18" rx="3" fill="#42383E"/>
+  <rect x="150" y="96" width="260" height="18" rx="3" fill="#C1121F"/>
+  <text class="mono sm" x="492" y="110" text-anchor="end" fill="#E8E6E3">22 of 22</text>
+  <text class="mono sm" x="28" y="132" fill="#8E8E96">so nobody has to guess what they may do with it</text>
+  <text class="mono" x="28" y="178" fill="#E0434E">described</text>
+  <rect x="150" y="164" width="260" height="18" rx="3" fill="#42383E"/>
+  <rect x="150" y="164" width="213" height="18" rx="3" fill="#C1121F"/>
+  <text class="mono sm" x="492" y="178" text-anchor="end" fill="#E8E6E3">18 of 22</text>
+  <text class="mono sm" x="28" y="200" fill="#8E8E96">the rest are scratch repos and will stay that way</text>
+  <text class="mono" x="28" y="238"><tspan class="key">docs</tspan><tspan fill="#5A1620"> ....... </tspan><tspan class="val">German, my brain insists</tspan></text>
+  <text class="mono" x="28" y="266"><tspan class="key">code</tspan><tspan fill="#5A1620"> ....... </tspan><tspan class="val">English, like everyone else</tspan></text>
+  <text class="mono note" x="28" y="290">teammates in group projects show up as Contributor</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 294" width="520" height="294" role="img" aria-label="A process list of what I do off the clock: league of legends, still climbing, ask again next split; valorant, my aim is a work in progress; overwatch, support main, partly your fault; painting, whenever the queue says 12 minutes.">
+  <title>off the clock</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 17px; }
+    .sm { font-size: 13px; }
+    .key { fill: #E0434E; }
+    .val { fill: #E8E6E3; }
+    .note { fill: #8E8E96; font-size: 12.5px; }
+  </style>
+  <rect fill="#0B0B0D" x="0" y="0" width="520" height="294" rx="12"/>
+  <rect fill="none" stroke="#3A0D12" x="8.5" y="8.5" width="503" height="277" rx="10"/>
+  <text class="mono" fill="#4FE07A" x="28" y="42">$</text>
+  <text class="mono" fill="#E8E6E3" x="46" y="42">ps aux | grep -i fun</text>
+  <line x1="28" y1="58" x2="492" y2="58" stroke="#3A0D12"/>
+  <text class="mono" x="28" y="92" fill="#8E8E96">1337</text>
+  <text class="mono" x="88" y="92" fill="#E8E6E3">league of legends</text>
+  <text class="mono sm" x="88" y="112" fill="#E0434E">still climbing, ask again next split</text>
+  <text class="mono" x="28" y="138" fill="#8E8E96">4711</text>
+  <text class="mono" x="88" y="138" fill="#E8E6E3">valorant</text>
+  <text class="mono sm" x="88" y="158" fill="#E0434E">my aim is a work in progress</text>
+  <text class="mono" x="28" y="184" fill="#8E8E96">2077</text>
+  <text class="mono" x="88" y="184" fill="#E8E6E3">overwatch</text>
+  <text class="mono sm" x="88" y="204" fill="#E0434E">support main, partly your fault</text>
+  <text class="mono" x="28" y="230" fill="#8E8E96">9001</text>
+  <text class="mono" x="88" y="230" fill="#E8E6E3">painting</text>
+  <text class="mono sm" x="88" y="250" fill="#E0434E">whenever the queue says 12 minutes</text>
+  <text class="mono note" x="28" y="278">four processes, none of them ever exit cleanly</text>
+</svg>

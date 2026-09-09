@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 470 280" width="470" height="280" role="img" aria-label="A dark panel headed draxxonhd@ghoul with a field list: uptime several semesters, building something in C++, learning Visual Computing, stack C++ C Java Kotlin, games League Valorant Overwatch, anime Tokyo Ghoul, sign Leo.">
+  <title>draxxonhd@ghoul</title>
+  <defs>
+    <style>
+      .bg { fill: #0B0B0D; }
+      .edge { fill: none; stroke: #3A0D12; stroke-width: 1; }
+      .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 15px; }
+      .key { fill: #E0434E; }
+      .dots { fill: #5A1620; }
+      .val { fill: #E8E6E3; }
+      .grn { fill: #4FE07A; }
+
+    </style>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#FFFFFF" opacity="0.03"/>
+    </pattern>
+  </defs>
+
+  <rect class="bg" width="470" height="280" rx="12"/>
+  <rect x="8" y="8" width="454" height="264" fill="url(#scan)"/>
+  <rect class="edge" x="8.5" y="8.5" width="453" height="263" rx="10"/>
+
+  <text class="mono grn" x="30" y="44" font-weight="700">draxxonhd@ghoul</text>
+  <line x1="30" y1="56" x2="440" y2="56" stroke="#3A0D12" stroke-width="1"/>
+
+  <g class="mono">
+    <text x="30" y="90"><tspan class="key">Uptime</tspan><tspan class="dots"> ..... </tspan><tspan class="val">several semesters</tspan></text>
+    <text x="30" y="116"><tspan class="key">Building</tspan><tspan class="dots"> ... </tspan><tspan class="val">something in C++</tspan></text>
+    <text x="30" y="142"><tspan class="key">Learning</tspan><tspan class="dots"> ... </tspan><tspan class="val">Visual Computing</tspan></text>
+    <text x="30" y="168"><tspan class="key">Stack</tspan><tspan class="dots"> ...... </tspan><tspan class="val">C++, C, Java, Kotlin</tspan></text>
+    <text x="30" y="194"><tspan class="key">Games</tspan><tspan class="dots"> ...... </tspan><tspan class="val">League, Valorant, OW</tspan></text>
+    <text x="30" y="220"><tspan class="key">Anime</tspan><tspan class="dots"> ...... </tspan><tspan class="val">Tokyo Ghoul</tspan></text>
+    <text x="30" y="246"><tspan class="key">Sign</tspan><tspan class="dots"> ....... </tspan><tspan class="val">Leo, explains half of it</tspan></text>
+  </g>
+</svg>

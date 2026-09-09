@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 288" width="520" height="288" role="img" aria-label="A timeline from 2024-06-20 to 2026-09-09: first a website; commits 1272 since then; repos 22 public, none of them done.">
+  <title>since 2024</title>
+  <style>
+    .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "DejaVu Sans Mono", monospace; font-size: 17px; }
+    .sm { font-size: 13px; }
+    .key { fill: #E0434E; }
+    .val { fill: #E8E6E3; }
+    .note { fill: #8E8E96; font-size: 12.5px; }
+  </style>
+  <rect fill="#0B0B0D" x="0" y="0" width="520" height="288" rx="12"/>
+  <rect fill="none" stroke="#3A0D12" x="8.5" y="8.5" width="503" height="271" rx="10"/>
+  <text class="mono" fill="#4FE07A" x="28" y="42">$</text>
+  <text class="mono" fill="#E8E6E3" x="46" y="42">git log --reverse --date=short</text>
+  <line x1="28" y1="58" x2="492" y2="58" stroke="#3A0D12"/>
+  <line x1="44" y1="122" x2="476" y2="122" stroke="#42383E" stroke-width="2"/>
+  <line x1="44.0" y1="115" x2="44.0" y2="129" stroke="#3A0D12"/>
+  <text class="mono sm" x="44.0" y="150" text-anchor="middle" fill="#8E8E96">2024</text>
+  <line x1="147.9" y1="115" x2="147.9" y2="129" stroke="#3A0D12"/>
+  <text class="mono sm" x="147.9" y="150" text-anchor="middle" fill="#8E8E96">2025</text>
+  <line x1="342.3" y1="115" x2="342.3" y2="129" stroke="#3A0D12"/>
+  <text class="mono sm" x="342.3" y="150" text-anchor="middle" fill="#8E8E96">2026</text>
+  <circle cx="44" cy="122" r="6" fill="#C1121F"/>
+  <circle cx="476" cy="122" r="6" fill="#4FE07A"/>
+  <text class="mono sm" x="34" y="104" fill="#E8E6E3">2024-06-20</text>
+  <text class="mono sm" x="486" y="104" text-anchor="end" fill="#E8E6E3">2026-09-09</text>
+  <text class="mono" x="28" y="192"><tspan class="key">first</tspan><tspan fill="#5A1620"> ...... </tspan><tspan class="val">a website</tspan></text>
+  <text class="mono" x="28" y="220"><tspan class="key">commits</tspan><tspan fill="#5A1620"> .... </tspan><tspan class="val">1272 since then</tspan></text>
+  <text class="mono" x="28" y="248"><tspan class="key">repos</tspan><tspan fill="#5A1620"> ...... </tspan><tspan class="val">22 public, none of them done</tspan></text>
+  <text class="mono note" x="28" y="272">dates from the commits, because a repo birthday lies</text>
+</svg>
