@@ -7,8 +7,8 @@
 
 <p align="center">
   <img alt="A panel headed draxxonhd@ghoul. An angular wolf head beside a field list: uptime, what I am building, what I am learning, my stack, games and anime."
-       src="assets/profile.svg" width="620">
-  <img alt="A tinted anime portrait" src="assets/portrait.jpg" width="277">
+       src="assets/profile.svg" width="560">
+  <img alt="A tinted anime portrait" src="assets/portrait.jpg" width="250">
 </p>
 <p align="center">
   <a href="#about"><img alt="Jump to about" src="assets/pad-up.svg" width="52"></a>
